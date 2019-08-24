@@ -4,3 +4,4 @@ I would like to gather some useful material on machine learning which i study an
 Companion webpage to the book <a href="https://mml-book.github.io/"> "Mathematics for Machine Learning" </a>
 
 ## Feature Engineering
+We must learn how to engineer features and build more powerful machine learning models.
