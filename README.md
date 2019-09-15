@@ -12,3 +12,4 @@ We must learn how to engineer features and build more powerful machine learning 
 - <a href="https://www.kaggle.com/kashnitsky/topic-6-feature-engineering-and-feature-selection">Feature Engineering and Feature Selection</a>
 - <a href="https://www.kaggle.com/rejasupotaro/effective-feature-engineering">Effective Feature Engineering</a>
 - <a href="https://www.kaggle.com/gunesevitan/advanced-feature-engineering-tutorial-with-titanic">Advanced Feature Engineering Tutorial with Titanic</a>
+## Main TextBooks
