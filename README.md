@@ -13,3 +13,4 @@ We must learn how to engineer features and build more powerful machine learning 
 - <a href="https://www.kaggle.com/rejasupotaro/effective-feature-engineering">Effective Feature Engineering</a>
 - <a href="https://www.kaggle.com/gunesevitan/advanced-feature-engineering-tutorial-with-titanic">Advanced Feature Engineering Tutorial with Titanic</a>
 ## Main TextBooks
+ <img src="https://github.com/Erfaan-Rostami/Deep-Learning/blob/master/Chollet-DLP-HI.png"  title="pro deep learning with tensorflow" height="140" width="120" />
