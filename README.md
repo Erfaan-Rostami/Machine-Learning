@@ -16,3 +16,4 @@ We must learn how to engineer features and build more powerful machine learning 
 - <a href="https://www.kaggle.com/gunesevitan/advanced-feature-engineering-tutorial-with-titanic">Advanced Feature Engineering Tutorial with Titanic</a>
 ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Machine-Learning/blob/master/hands%20on%20machine%20learning.jpg"  title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" height="140" width="120" />
+  <img src="https://github.com/Erfaan-Rostami/Machine-Learning/blob/master/hands%20on%20machine%20learning.jpg"  title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" height="140" width="120" />
