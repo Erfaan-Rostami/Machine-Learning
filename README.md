@@ -19,3 +19,5 @@ We must learn how to engineer features and build more powerful machine learning 
 ## Boltzmann Machines
 &#10037; <a href="https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf">Boltzmann Machines</a>; By Geoffrey E. Hinton (University of Toronto)
 
+&#10037; Boltzmann Machines|Transformation of Unsupervised Deep Learning
+
