@@ -23,10 +23,10 @@ We must learn how to engineer features and build more powerful machine learning 
 
 &#10037; <a href="https://medium.com/@neuralnets/boltzmann-machines-transformation-of-unsupervised-deep-learning-part-1-42659a74f530">Boltzmann Machines | Transformation of Unsupervised Deep Learning</a>; By Random Nerds
 
-< !DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
- <title>Heading Example </title>
+<title>Heading Example</title>
 </head>
 <body>
  <h1>This is heading 1 </h1>
