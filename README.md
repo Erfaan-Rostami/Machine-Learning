@@ -26,14 +26,14 @@ We must learn how to engineer features and build more powerful machine learning 
 < !DOCTYPE html>
 <html>
 <head>
- <title>Heading Example < /title>
+ <title>Heading Example </title>
 </head>
 <body>
- <h1>This is heading 1 < /h1>
- <h2>This is heading 2 < /h2>
- <h3>This is heading 3 < /h3>
- <h4>This is heading 4 < /h4>
- <h5>This is heading 5 < /h5>
- <h6>This is heading 6 < /h6>
+ <h1>This is heading 1 </h1>
+ <h2>This is heading 2 </h2>
+ <h3>This is heading 3 </h3>
+ <h4>This is heading 4 </h4>
+ <h5>This is heading 5 </h5>
+ <h6>This is heading 6 </h6>
 </body>
 </html>
