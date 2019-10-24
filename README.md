@@ -8,6 +8,9 @@ I would like to gather some useful material on machine learning which i study an
 &spades; <a href="https://elitedatascience.com/overfitting-in-machine-learning">Overfitting in Machine Learning: What It Is and How to Prevent It</a>
 
 &spades; <a href="https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114">Fundamental Techniques of Feature Engineering for Machine Learning</a>
+
+&spades; <a href="https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab">End-to-end Machine Learning project on predicting housing prices using Regression</a>, by Gurupratap Singh Matharu
+
 ## Feature Engineering
 We must learn how to engineer features and build more powerful machine learning models.
 
