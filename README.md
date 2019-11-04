@@ -21,6 +21,7 @@ We must learn how to engineer features and build more powerful machine learning 
 - <a href="https://www.kaggle.com/gunesevitan/advanced-feature-engineering-tutorial-with-titanic">Advanced Feature Engineering Tutorial with Titanic</a>
 ## Main TextBooks
  <img src="https://github.com/Erfaan-Rostami/Machine-Learning/blob/master/hands%20on%20machine%20learning.jpg"  title="Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" height="140" width="120" /><img src="https://github.com/Erfaan-Rostami/Machine-Learning/blob/master/understanding%20machine%20learning.jpg"  title="Understanding Machine Learning" height="140" width="120" />
+ <img src="https://github.com/Erfaan-Rostami/Machine-Learning/blob/master/understanding%20machine%20learning.jpg"  title="INTRODUCTION TO MACHINE LEARNING" height="140" width="120" />
 ## Boltzmann Machines
 &#10037; <a href="https://www.cs.toronto.edu/~hinton/csc321/readings/boltz321.pdf">Boltzmann Machines</a>; By Geoffrey E. Hinton (University of Toronto)
 
