@@ -3,7 +3,7 @@ I would like to gather some useful material on machine learning which i study an
 ## Useful Links
 &#9917; <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
 
-&#9917; <a href="">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
+&#9917; <a href="https://blog.grakn.ai/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
 
 &spades; Companion webpage to the book <a href="https://mml-book.github.io/"> "Mathematics for Machine Learning" </a>
 
