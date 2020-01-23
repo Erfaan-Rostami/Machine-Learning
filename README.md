@@ -13,7 +13,7 @@ I would like to gather some useful material on machine learning which i study an
 
 &spades; <a href="https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab">End-to-end Machine Learning project on predicting housing prices using Regression</a>, by Gurupratap Singh Matharu
 
-&spades; <a href="">Stanford Machine Learning Group</a>
+&spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 
 ## Feature Engineering
 We must learn how to engineer features and build more powerful machine learning models.
