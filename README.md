@@ -5,6 +5,8 @@ I would like to gather some useful material on machine learning which i study an
 
 &#9917; <a href="https://blog.grakn.ai/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
 
+&#9917; <a href=""></a>
+
 &spades; Companion webpage to the book <a href="https://mml-book.github.io/"> "Mathematics for Machine Learning" </a>
 
 &spades; <a href="https://elitedatascience.com/overfitting-in-machine-learning">Overfitting in Machine Learning: What It Is and How to Prevent It</a>
