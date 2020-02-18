@@ -17,6 +17,7 @@ I would like to gather some useful material on machine learning which i study an
 
 &spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 ## Papers
+- <a href="">When Does Label Smoothing Help?</a>
 
 ## Feature Engineering
 We must learn how to engineer features and build more powerful machine learning models.
