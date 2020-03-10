@@ -19,7 +19,7 @@ I would like to gather some useful material on machine learning which i study an
 ## Papers
 - <a href="https://arxiv.org/pdf/1906.02629.pdf">When Does Label Smoothing Help?</a>
 ### Statistical topics
-   -* <a href="">The Bias-Variance Dilemma</a>
+   - <a href="https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf">The Bias-Variance Dilemma</a>; by **Ra´ul Rojas**
 
 ## Feature Engineering
 We must learn how to engineer features and build more powerful machine learning models.
