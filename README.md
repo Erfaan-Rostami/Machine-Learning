@@ -5,7 +5,8 @@ I would like to gather some useful material on machine learning which i study an
 - [TextBooks](#TextBooks)
 - [Slides, Papers and Useful Links](#Slides,-Papers-and-Useful-Links)
 ## Useful Links
-&#9917; <a href="">The 7 Steps of Machine Learning</a>
+&#9917; <a href="https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e">The 7 Steps of Machine Learning</a>
+
 &#9917; <a href="https://blog.grakn.ai/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
 
 &#9917; <a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>. A Guide for Making Black Box Models Explainable. (Christoph Molnar)
