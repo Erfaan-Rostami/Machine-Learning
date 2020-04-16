@@ -19,7 +19,7 @@ I would like to gather some useful material on machine learning which i study an
 
 &spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 ## Papers
-&#9917; <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
+- <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
 - <a href="https://arxiv.org/pdf/1906.02629.pdf">When Does Label Smoothing Help?</a>
 ### Statistical topics
    - <a href="https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/bias.pdf">The Bias-Variance Dilemma</a>; by **Ra´ul Rojas**
