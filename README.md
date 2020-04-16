@@ -43,4 +43,4 @@ We must learn how to engineer features and build more powerful machine learning 
 ## Datasets
 - <a href="http://yann.lecun.com/exdb/mnist/">MNIST dataset</a>
 - <a href="http://cocodataset.org/">COCO</a>; Common Objects in Context
-## Slides
+## Training Models
