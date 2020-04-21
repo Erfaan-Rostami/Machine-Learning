@@ -5,21 +5,21 @@
 - [TextBooks](#TextBooks)
 - [Slides, Papers and Useful Links](#Slides,-Papers-and-Useful-Links)
 ## Useful Links
-&#9917; <a href="https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e">The 7 Steps of Machine Learning</a>
+&#9755; <a href="https://towardsdatascience.com/the-7-steps-of-machine-learning-2877d7e5548e">The 7 Steps of Machine Learning</a>
 
-&#9917; <a href="https://blog.grakn.ai/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
+&#9755; <a href="https://blog.grakn.ai/unsolved-machine-learning-problems-that-you-can-solve-35e4ddc561b9">Unsolved Machine Learning Problems That You Can Solve</a>; by James Fletcher
 
-&#9917; <a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>. A Guide for Making Black Box Models Explainable. (Christoph Molnar)
+&#9755; <a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>. A Guide for Making Black Box Models Explainable. (Christoph Molnar)
 
-&spades; Companion webpage to the book <a href="https://mml-book.github.io/"> "Mathematics for Machine Learning" </a>
+&#9755; Companion webpage to the book <a href="https://mml-book.github.io/"> "Mathematics for Machine Learning" </a>
 
-&spades; <a href="https://elitedatascience.com/overfitting-in-machine-learning">Overfitting in Machine Learning: What It Is and How to Prevent It</a>
+&#9755; <a href="https://elitedatascience.com/overfitting-in-machine-learning">Overfitting in Machine Learning: What It Is and How to Prevent It</a>
 
-&spades; <a href="https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114">Fundamental Techniques of Feature Engineering for Machine Learning</a>
+&#9755; <a href="https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114">Fundamental Techniques of Feature Engineering for Machine Learning</a>
 
-&spades; <a href="https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab">End-to-end Machine Learning project on predicting housing prices using Regression</a>, by Gurupratap Singh Matharu
+&#9755; <a href="https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab">End-to-end Machine Learning project on predicting housing prices using Regression</a>, by Gurupratap Singh Matharu
 
-&spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
+&#9755; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 
 &#9755; <a href="https://github.com/ageron/handson-ml2">example code and solutions to the exercises in the second edition</a> of Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow
 ## Papers
