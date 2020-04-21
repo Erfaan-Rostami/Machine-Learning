@@ -21,7 +21,7 @@
 
 &spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 
-&#9755; <a href="">example code and solutions to the exercises in the second edition</a> of Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow
+&#9755; <a href="https://github.com/ageron/handson-ml2">example code and solutions to the exercises in the second edition</a> of Hands on Machine Learning with Scikit-Learn, Keras and TensorFlow
 ## Papers
 - <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
 - <a href="https://arxiv.org/pdf/1906.02629.pdf">When Does Label Smoothing Help?</a>
