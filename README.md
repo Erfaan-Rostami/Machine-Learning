@@ -20,6 +20,8 @@
 &spades; <a href="https://medium.com/@gurupratap.matharu/end-to-end-machine-learning-project-on-predicting-housing-prices-using-regression-7ab7832840ab">End-to-end Machine Learning project on predicting housing prices using Regression</a>, by Gurupratap Singh Matharu
 
 &spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
+
+&#9758; <a href=""></a>
 ## Papers
 - <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
 - <a href="https://arxiv.org/pdf/1906.02629.pdf">When Does Label Smoothing Help?</a>
