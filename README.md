@@ -21,7 +21,7 @@
 
 &spades; <a href="https://stanfordmlgroup.github.io/">Stanford Machine Learning Group</a>
 
-&#9758; <a href=""></a>
+&#9755; <a href=""></a>
 ## Papers
 - <a href="https://paperswithcode.com">Papers with code</a>: a free and open resource with Machine Learning papers.
 - <a href="https://arxiv.org/pdf/1906.02629.pdf">When Does Label Smoothing Help?</a>
